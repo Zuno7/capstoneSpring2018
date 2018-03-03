@@ -1,0 +1,20 @@
+#heading-container{
+    background-color: #006E91;
+    color:white;
+    border-bottom-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+}
+#headerTitle{
+    text-align: center;
+    padding-top:50px;
+     
+}
+#userOptions{
+
+}
+.welcome{
+    font-size: 8pt;
+}
+#searchMatching{
+    
+}

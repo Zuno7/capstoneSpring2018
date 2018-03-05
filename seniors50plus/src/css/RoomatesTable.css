@@ -1,0 +1,18 @@
+.profilepic{
+    height: 1%;
+    
+}
+#rtable{
+    margin:auto;
+}
+#rtable th{
+    border-bottom: 1px solid black;
+}
+#rtable th, td{
+    padding-left:25px;
+    padding-right:25px;
+}
+.report a{
+    text-decoration: none;
+    color:red;
+}

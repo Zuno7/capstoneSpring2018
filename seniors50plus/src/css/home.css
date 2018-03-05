@@ -2,3 +2,41 @@
     height: 50%;
     width: 50%;
 }
+#homeBlock2{
+    float:right;
+}
+#searchMatching a{
+    border:1px solid black;
+    border-radius: 10%;
+    padding:5px;
+    text-decoration: none;
+    color:white;
+    background-color:#006E91;
+    margin: auto;
+    
+}
+#aboutUs{
+    background-color:#006E91;
+    color:white;
+    padding:30px;
+    text-align: center;
+    
+}
+#aboutPic{
+    border:1px solid black;
+    border-radius: 5%;
+    margin-left:20%;
+    height:50%;
+    width: 50%;
+}
+#about1{
+    
+    float:left;
+    height:50%;
+    width: 50%;
+}
+#about2{
+    display:inline-block;
+    height:50%;
+    width: 50%;
+}

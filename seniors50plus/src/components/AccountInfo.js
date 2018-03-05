@@ -1,11 +1,13 @@
 import React from 'react'
 import Heading from './Heading'
+import Homebtn from '../library/homebtn'
 import Footer from './Footer'
 import '../css/AccountInfo.css'
 
 const AccountInfo = () => (
     <div id ="ai-container">
         <Heading/>
+        <Homebtn/>
         <h1 id="ai-title">Account Information</h1>
         <table id ="ai-table"align="center">
             <tbody>

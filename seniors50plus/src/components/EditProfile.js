@@ -21,7 +21,7 @@ const EditProfile = () => (
         </div>
         </div>
         <div id ="ep-right">
-        <h2>Profile</h2>
+        <h2>Questionanire</h2>
         <table>
             <tbody>
                 <tr>
@@ -49,6 +49,8 @@ const EditProfile = () => (
                 </tr>
             </tbody>
         </table>
+        <h2>Description</h2>
+        <textarea id="ep-description">This is a description about the user. This section will allow users to include any information that was not covered above included in the questions above</textarea>
 
         </div>
         <Footer/>

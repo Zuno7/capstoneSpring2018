@@ -1,9 +1,35 @@
 #backgroundImg{
     height: 50%;
     width: 50%;
+    float:left;
+}
+#table-event img{
+    margin:20px;
+    border:1px solid black;
+    border-radius: 10%;
 }
 #homeBlock2{
+    width:50%;
+    text-align: center;
     float:right;
+}
+#homeEvent strong{
+    font-size:2em;
+    padding:5%;
+    margin-bottom:20px;
+}
+#homeEvent{
+padding:20px;
+margin-top:20px;
+margin-bottom:20px;
+}
+#homeEvent1{
+    height:5%;
+    width:auto;
+}
+#homeEvent2{
+    height:6%;
+    width:auto;
 }
 #searchMatching a{
     border:1px solid black;
@@ -12,14 +38,18 @@
     text-decoration: none;
     color:white;
     background-color:#006E91;
-    margin: auto;
     
+    
+}
+#searchMatching{
+    text-align:right;
 }
 #aboutUs{
     background-color:#006E91;
     color:white;
     padding:30px;
     text-align: center;
+    clear:left;
     
 }
 #aboutPic{

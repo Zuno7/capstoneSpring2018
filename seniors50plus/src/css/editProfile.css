@@ -1,0 +1,31 @@
+#ep-description{
+    height:150px;
+    width:70%;
+}
+#ep-left{
+    margin-top:5%;
+    width:40%;
+    float:left;
+}
+#ep-right{
+    width:50%;
+    float:right;
+}
+#search-roommate{
+    padding-top:40px;
+
+}
+#edit-location{
+    float:left;
+}
+
+.ep-profilepic{
+    border:1px solid black;
+    border-radius: 5%;
+    height:80%;
+    width:80%;
+}
+.edit-right{
+    margin-right:20%;
+    float:right;
+}

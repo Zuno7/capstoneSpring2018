@@ -1,0 +1,17 @@
+#ai-table td{
+    padding:3%;
+}
+#ai-title{
+padding-bottom:1%;
+}
+#btnDelete{
+    background-color:#006E91;
+    border:1px solid black;
+    border-radius:10%;
+    color:white;
+    margin:auto;
+    margin-top:5%;
+    margin-bottom:5%;
+    text-align:center;
+    width:120px;
+}

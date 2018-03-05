@@ -1,0 +1,55 @@
+h3{
+    margin-top:10%;
+    text-align: center;
+    background-color:#006E91;
+    color:white;
+}
+#btn-container{
+    text-align:center;
+    margin:50px;
+}
+#Homebtn a{
+    margin-left:1%;
+}
+#profilepic {
+    height:20%;
+    width:20%;
+    border: 1px solid black;
+    border-radius: 10%;
+    margin-left: 10%;
+    margin-right:10%;
+    float:left;
+}
+#rpH1{
+    margin-bottom:5%;
+}
+.ArrowLeft{
+    background-color:#006E91;
+    border:1px solid black;
+    border-radius:10%;
+    color:white;
+    float:left;
+    font-size:2.2em;
+    margin-left:20px;
+}
+.rpButtons{
+    background-color:#006E91;
+    border:1px solid black;
+    border-radius: 10%;
+    color:white;
+    font-size:10pt;
+    margin:20px;
+    padding:5px;
+    text-decoration: none;
+}
+.rProfile1{
+    font-size: 9pt;
+    float:left;
+    width:20%;
+}
+.rProfile1{
+    font-size: 9pt;
+    float:right;
+    width:20%;
+    margin-right:10%;
+}

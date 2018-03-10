@@ -2,6 +2,7 @@ import React from 'react'
 import Heading from './Heading'
 import Homebtn from '../library/homebtn'
 import Footer from './Footer'
+import Homebtn from '../library/homebtn'
 import '../css/AccountInfo.css'
 
 const AccountInfo = () => (

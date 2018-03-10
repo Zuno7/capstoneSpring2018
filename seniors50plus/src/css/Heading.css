@@ -1,3 +1,22 @@
+
+.navbar-banner{
+    background-color: #006E91;
+    
+    
+}
+.navbar-words{
+    color:white;
+}
+#basic-nav-dropdown{
+    color:white;
+}
+#basic-nav-dropdown :hover{
+    background-color:blue;
+}
+#heading-container{
+    margin-bottom:5%;
+}
+/*Before Bootstrap
 #heading-container{
     background-color: #006E91;
     border:1px solid black;
@@ -17,3 +36,4 @@
 .welcome{
     font-size: 8pt;
 }
+*/

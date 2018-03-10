@@ -1,0 +1,38 @@
+[
+    {
+        "id": "username1",
+        "profilepic": "ProfilePic",
+        "name":"Tommy Thompson",
+        "percent":"80%",
+        "location": "Alpharetta, Ga",
+        "more":"View more",
+        "report":"report"
+    },
+    {
+        "id":"username2",
+        "profilepic": "ProfilePic",
+        "name":"John Smith",
+        "percent":"75%",
+        "location": "Lawrenceville, Ga",
+        "more":"View more",
+        "report":"report"
+    },
+    {
+        "id":"username3",
+        "profilepic": "ProfilePic",
+        "name":"Billy Bob",
+        "percent":"65%",
+        "location": "Kennesaw, Ga",
+        "more":"View more",
+        "report":"report"
+    },
+    {
+        "id":"username4",
+        "profilepic": "ProfilePic",
+        "name":"Bob Stone",
+        "percent":"72%",
+        "location": "Marietta, Ga",
+        "more":"View more",
+        "report":"report"
+    }
+]

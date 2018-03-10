@@ -5,12 +5,14 @@ import Footer from './Footer'
 import Rtable from './RoomatesTable'
 import '../css/matching.css'
 
+import data from '../library/tempPeople.json'
+
 const Matching = () => (
 <div id ="match-container">
     <Heading/>
     <Homebtn/>
     <h1> Matches Found</h1>
-    <Rtable/>
+    <Rtable data = {data} />
     <Footer/>
 </div>
 );
